@@ -6,6 +6,14 @@ This application allows users to explore, search, analyze, and translate quote d
 
 ---
 
+## Live Demo
+
+<a href="https://huggingface.co/spaces/salsabilaslh/app.project" target="_blank">
+  <img src="https://img.shields.io/badge/HuggingFace-Live%20Demo-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+
+---
+
 ## Features
 
 * View and manage quote datasets
