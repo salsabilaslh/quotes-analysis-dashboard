@@ -1,4 +1,4 @@
-# 📊 Quotes Analysis Dashboard
+# Quotes Analysis Dashboard
 
 An interactive web-based dashboard project developed as part of a Spring 2026 midterm project.
 
@@ -52,7 +52,7 @@ The dashboard interface is developed using Gradio for interactive web-based user
 
 ---
 
-## 📸 Screenshots
+## Project Preview
 
 ### Quotes Interface
 
