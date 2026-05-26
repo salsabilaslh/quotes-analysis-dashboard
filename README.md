@@ -56,16 +56,15 @@ The dashboard interface is developed using Gradio for interactive web-based user
 
 ### Quotes Interface
 
-![Quotes](screenshots/quotes.png)
+![Quotes](quotes.png)
 
 ### Dashboard Analytics
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Analysis & Visualization
 
-![Analysis](screenshots/analysis.png)
-
+![Analysis](analysis.png)
 
 ---
 
