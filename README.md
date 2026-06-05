@@ -1,8 +1,6 @@
 # Quotes Analysis Dashboard
 
-<a href="https://huggingface.co/spaces/salsabilaslh/app.project" target="_blank">
-  <img src="https://img.shields.io/badge/HuggingFace-Live%20Demo-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
-</a>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-HuggingFace-yellow?logo=huggingface)](https://huggingface.co/spaces/salsabilaslh/app.project)
 
 ---
 
