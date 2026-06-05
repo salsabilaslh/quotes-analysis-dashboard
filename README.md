@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/HuggingFace-Live%20Demo-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
 
+---
+
 An interactive web-based dashboard project developed as part of a Spring 2026 midterm project.
 
 This application allows users to explore, search, analyze, and translate quote datasets through an interactive dashboard interface built with Python and Gradio.
