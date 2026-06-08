@@ -37,7 +37,7 @@ This application allows users to explore, search, analyze, and translate quote d
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 The application automatically collects quote data through web scraping and stores it in a SQLite database.
 Users can interact with the dashboard to search quotes, analyze datasets, generate visualizations, and translate quotes into multiple languages using external translation APIs.
@@ -86,4 +86,4 @@ Midterm Project — Spring 2026
 
 ---
 
-⭐ This project was developed for academic and learning purposes as part of application programming and data analysis coursework.
+This project was developed for academic and learning purposes as part of application programming and data analysis coursework.
